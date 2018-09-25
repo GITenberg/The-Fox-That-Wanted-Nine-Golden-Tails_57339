@@ -1,5 +1,5 @@
 _repo: The-Fox-That-Wanted-Nine-Golden-Tails_57339
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Wheelan, Albertine Randall
@@ -8,12 +8,17 @@ contributor:
     - Wheelan, Mrs. Randall
     gutenberg_agent_id: '45524'
     url: http://www.gutenberg.org/2009/agents/45524
+covers:
+- cover_type: archival
+  image_path: 57339-h/images/cover.jpg
 creator:
   author:
     agent_name: Nelson, Kathleen Gray
     gutenberg_agent_id: '49328'
     url: http://www.gutenberg.org/2009/agents/49328
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57339#The-Fox-That-Wanted-Nine-Golden-Tails
 gutenberg_issued: '2018-06-17'
 gutenberg_type: Text
 identifiers:
